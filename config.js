@@ -1,19 +1,19 @@
 //=============『 MAIN 』================== //
-global.owner = ['6285746030186', '6285607831410'] // Ganti Jadi Nomormu
+global.owner = ['6285793433348', '6285793433348'] // Ganti Jadi Nomormu
 global.mods = ['0'] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Nama Owner'
-global.numberowner = '6285746030186' // Ganti Jadi Nomor mu
-global.instagram = '-' // Ig Kamu
+global.nameowner = 'San XD'
+global.numberowner = '6285793433348' // Ganti Jadi Nomor mu
+global.instagram = '-' // san.xd12_
 global.github = 'https://github.com/ZennRull' // Github kamu (biarin aja kalau gaada)
 global.dana = '-' //Dana pulsa gopay
-global.pulsa = '-'
-global.gopay = '-'
+global.pulsa = '-085793433348
+global.dana = '-082114680993
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Nama Bot' // Nama Bot
+global.namebot = 'San Botz' // Nama Bot
 global.gc = 'https://t.me/pixelbotwhatsapp'
 global.web = 'https://t.me/pixelbotwhatsapp' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 15K\n2 Minggu 10K\n1 Minggu 5K'
@@ -22,7 +22,7 @@ global.price1 = '1 bulan = 15K\n2 Minggu 10K\n1 Minggu 5K'
 global.fotonya1 = 'https://telegra.ph/file/ddd9322634f99a534188c.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/ddd9322634f99a534188c.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
+global.zenzkey = 'RuslanPrend' //ganti jadi apikey lu kalau expired
 global.wm = '❍⌇─➭ PixelBot'
 global.watermark = wm
 global.wm2 = '⫹⫺ PixelBot'
